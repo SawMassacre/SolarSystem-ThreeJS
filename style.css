@@ -1,0 +1,58 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+ }
+
+#text {
+  color: #49fb35;
+	position: absolute;
+  border: 3px solid #49fb35;
+  padding: 10px;
+  top: 50%;
+  left: 50%;
+  margin-top: -25px;
+  margin-left: -90px;
+  width: 180px;
+  height: 50px;
+  font-family: OCR A Std, monospace;
+  font-size: 21px;
+	text-align: center;
+	z-index: 100;
+  display: block;
+  visibility: hidden;
+}
+
+#text1 {
+  color: #49fb35;
+	position: absolute;
+  padding: 10px;
+  top: 10px;
+  left: 85px;
+  margin-top: -25px;
+  margin-left: -90px;
+  width: 180px;
+  height: 50px;
+  font-size: 21px;
+	text-align: center;
+	z-index: 100;
+  display: block;
+  visibility: hidden;
+}
+
+#text2 {
+  color: #49fb35;
+	position: absolute;
+  padding: 10px;
+  top: 639px;
+  left: 1200px;
+  margin-top: -25px;
+  margin-left: -90px;
+  width: 1px;
+  height: 1px;
+  font-size: 21px;
+	text-align: center;
+	z-index: 100;
+  display: block;
+  visibility: hidden;
+}
