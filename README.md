@@ -1,4 +1,4 @@
 # SolarSystemThreeJS
-Курсовая за второй семестр
+First year, second term coursework
 
 ┻━┻︵  \(°□°)/ ︵ ┻━┻ 
